@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: lammps-utils
+Version: 1.0
+Summary: python utility codes to pre and post-process lammps simulation
+Home-page: https://github.com/Rahat084
+Author: Md Shahrier Hasan
+Author-email: rahat084@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
