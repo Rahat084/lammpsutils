@@ -1,8 +1,0 @@
-README.md
-setup.py
-lammpsutils/__init__.py
-lammpsutils/logreader.py
-lammpsutils.egg-info/PKG-INFO
-lammpsutils.egg-info/SOURCES.txt
-lammpsutils.egg-info/dependency_links.txt
-lammpsutils.egg-info/top_level.txt
